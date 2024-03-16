@@ -18,7 +18,7 @@ Overall, your JavaScript roadmap project serves as a comprehensive guide and lea
 
 # JS Roadmap
 
-#https://github.com/arnabdutta491/JS-ROADMAP/tree/main/%E2%9C%85%20Basics ✅ Basics
+# [✅ Basics](https://github.com/arnabdutta491/JS-ROADMAP/tree/main/%E2%9C%85%20Basics)
 
 -   Variables
     -   Data Types
@@ -33,7 +33,7 @@ Overall, your JavaScript roadmap project serves as a comprehensive guide and lea
     -   Date Objects
     -   Date Functions
 
-## ✅ Intermidiate
+## [✅ Intermidiate](https://github.com/arnabdutta491/JS-ROADMAP/tree/main/%E2%9C%85%20Intermediate)
 
 -   String functions
     -   charAt
@@ -63,8 +63,7 @@ Overall, your JavaScript roadmap project serves as a comprehensive guide and lea
 -   Async Await
 -   ES6
 
-## ✅ Advanced
-
+## [✅ Advanced](https://github.com/arnabdutta491/JS-ROADMAP/tree/main/%E2%9C%85%C2%A0Advanced)
 -   call
 -   bind
 -   apply
