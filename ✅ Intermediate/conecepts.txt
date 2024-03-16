@@ -1,0 +1,19 @@
+Some Theories:
+
+1. **Shallow Copy vs. Deep Copy**: Imagine you have a box with smaller boxes inside it. Shallow copy makes a new big box, but the smaller boxes inside it are the same as in the original box. Deep copy, on the other hand, creates a completely new set of smaller boxes inside the new big box.
+
+2. **This Keyword**: It's like talking about yourself in a conversation. When you use "this" in JavaScript, you're referring to whatever object or context the code is currently working in.
+
+3. **Closure**: Think of a closure as a memory bubble that keeps some information safe. Even if you take that bubble somewhere else, it still remembers where it came from and what's inside it.
+
+4. **Hoisting**: Pretend you're tidying up your room. Hoisting in JavaScript is like picking up your books and putting them on the top shelf before you start working with them. It happens before your code actually runs.
+
+5. **Fetch**: Fetch is like sending a message to a friend. In JavaScript, it's a way to ask a server for information, like requesting a webpage or data, and getting a response back.
+
+6. **Try Catch**: This is like having a safety net for your code. With try-catch, you try to do something, but if it doesn't work (like encountering an error), you catch it and do something else instead of crashing your whole program.
+
+7. **Promise**: It's like a promise from a friend to bring you something. In JavaScript, a promise is an assurance that something will happen eventually, like fetching data from a server. It might take some time, but you'll get the result either successfully or with an error.
+
+8. **Async Await**: Imagine waiting for a package delivery. Async-await is like saying, "I'll wait for the package to arrive, but in the meantime, I'll do something else." It makes working with promises easier by making the code look more sequential and readable.
+
+9. **ES6 Features**: ES6 introduced some cool new tools for JavaScript developers. It's like getting upgraded to a newer version of your favorite app, with features like let and const for declaring variables, arrow functions for writing shorter functions, and template literals for better string formatting.

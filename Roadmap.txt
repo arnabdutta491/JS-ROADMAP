@@ -1,0 +1,57 @@
+# JS Roadmap
+
+# ✅ Basics
+
+- [ ]  Variables
+    - [ ]  Data Types
+    - [ ]  Scopes
+    - [ ]  mutable vs immutable
+
+- [ ]  Functions
+    - [ ]  legacy one with “function” keyword
+    - [ ]  arrow function
+- [ ]  Loops
+- [ ]  Dates
+    - [ ]  Date Objects
+    - [ ]  Date Functions
+
+## ✅ Intermidiate
+
+- [ ]  String functions
+    - [ ]  charAt
+    - [ ]  split
+    - [ ]  includes
+    - [ ]  startsWith
+    - [ ]  toLowerCase
+    - [ ]  toUpperCase
+- [ ]  Array functions
+    - [ ]  map
+    - [ ]  forEach
+    - [ ]  reduce
+    - [ ]  filter
+    - [ ]  find
+    - [ ]  splice
+    - [ ]  slice
+    - [ ]  includes
+- [ ]  Spread Operator
+- [ ]  Rest Parameter
+- [ ]  Shallow Copy vs Deep Copy
+- [ ]  this keyword
+- [ ]  clouser
+- [ ]  hoisting
+- [ ]  fetch
+- [ ]  try catch
+- [ ]  Promise
+- [ ]  Async Await
+- [ ]  ES6
+
+## ✅ Advanced
+
+- [ ]  call
+- [ ]  bind
+- [ ]  apply
+- [ ]  module
+- [ ]  class
+- [ ]  new keyword
+- [ ]  Error handling
+- [ ]  prototype
