@@ -1,0 +1,44 @@
+how to create an array 
+    const numbers = [1, 2, 3, 4, 5];
+    let new_arr = new Array()
+
+how to create an Object 
+    let ab = {}
+    let modified_data = new Object()
+
+map in js
+let numbers = [1, 2, 3];
+numbers = numbers.map((num) =>{
+  return {
+    "id":num
+  }
+});
+console.log(numbers)
+
+
+shalow copy
+  const numbers = [1, 2, 3, 4, 5];
+  const copy = numbers.slice();
+  console.log(copy)
+  console.log(numbers)
+  copy[1] = 45
+  console.log(copy)
+  console.log(numbers)
+
+promise
+  const r = new Promise((resolve, reject) => {
+  let data = 1;
+  if (data) {
+    resolve('asdas');
+  } else {
+    reject('sasasasas');
+  }
+});
+
+r.then((resolve) => {
+  console.log(resolve);
+})
+.catch((reject) => {
+  console.log(reject);
+});
+
