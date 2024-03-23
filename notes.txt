@@ -42,3 +42,16 @@ r.then((resolve) => {
   console.log(reject);
 });
 
+
+fetch
+const apiUrl = 'https://jsonplaceholder.typicode.com/users';
+fetch(apiUrl)
+.then((response) => {
+  console.log('response', response);
+  return response.json();
+})
+.then((data) => {
+  console.log(data);
+  resolve(data); // Resolve the promise with the data
+})
+
